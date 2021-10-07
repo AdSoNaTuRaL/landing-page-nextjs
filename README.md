@@ -4,6 +4,8 @@ A simple project starter to work with React, NextJS and Styled Components
 
 You can see the example in [https://nextjs-quickstart.now.sh/](https://nextjs-quickstart.now.sh/)
 
+![CI](https://github.com/AdSoNaTuRaL/boilerplate-nextjs/workflows/ci/badge.svg)
+
 ### 📦 Install
 
 ```
